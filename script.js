@@ -10,8 +10,6 @@ if (kumulativais > 40.4) {
 
 console.log('----------------------9.uzdevums - 2.variants (ar aprēķiniem)------------------------------------')
 
-// const kumulativais = 50
-
 let iedzSk = 2000000;
 let saslimusie = 808;
 const kumulativaisMax = 40.4;
